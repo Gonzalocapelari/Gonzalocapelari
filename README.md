@@ -1,5 +1,5 @@
 
-### a.k.a **gZeta**
+**gZeta**
 
 I'm a developer and Information Systems student based in Oro Verde, Argentina.
 - 🎓 Studying **bachelor on systems** at UADER.
