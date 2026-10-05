@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Gonzalocapelari/Gonzalocapelari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### a.k.a **gZeta**
 
-Here are some ideas to get you started:
+I'm a developer and Information Systems student based in Oro Verde, Argentina.
+- 🎓 Studying **bachelor on systems** at UADER.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ### Web Development
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+  ### Systems & Core
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+</div>
+
