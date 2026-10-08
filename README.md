@@ -1,11 +1,9 @@
 
-**gZeta**
+                                                                                                      **gZeta**
 
-I'm a developer and Information Systems student based in Oro Verde, Argentina.
-- 🎓 Studying **bachelor on systems** at UADER.
-
+ 🎓 Studying **bachelor on systems** in Argentina.
 <div align="center">
-  
+
   ### Web Development
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
